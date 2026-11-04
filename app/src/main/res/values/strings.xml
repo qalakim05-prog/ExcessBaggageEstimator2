@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Excess Baggage Fee</string>
+
+    <string name="instructions">How to use: enter your checked baggage weight, choose your ticket class and type the excess rate per kg. Allowance: Economy 20 kg, Business 40 kg. An 8% service tax is added to the charge.</string>
+
+    <string name="hint_weight">Baggage weight (kg)</string>
+    <string name="helper_weight">Example: 25 or 42.5</string>
+    <string name="label_class">Ticket class</string>
+    <string name="economy">Economy (20 kg)</string>
+    <string name="business">Business (40 kg)</string>
+    <string name="hint_rate">Excess rate per kg</string>
+    <string name="helper_rate">Example: 15</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+
+    <string name="results">Results</string>
+    <string name="out_excess_weight">Excess baggage weight</string>
+    <string name="out_excess_charge">Excess baggage charge</string>
+    <string name="out_total">Total amount payable (incl. 8% tax)</string>
+    <string name="placeholder_kg">0.00 kg</string>
+    <string name="placeholder_rm">RM 0.00</string>
+
+    <string name="error_empty">This field cannot be empty</string>
+    <string name="error_weight">Enter a valid weight (0 or more)</string>
+    <string name="error_rate">Enter a valid rate (0 or more)</string>
+
+    <string name="share">Share</string>
+    <string name="share_via">Share app via</string>
+    <string name="share_text">Check out this Excess Baggage Fee calculator app:</string>
+    <string name="about">About</string>
+    <string name="about_title">About</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="about_description">Estimates the excess baggage fee for air travel based on baggage weight, ticket class and rate per kg.</string>
+    <string name="about_developer_header">Developer</string>
+    <string name="about_developer_details">MUHAMMAD HAIQAL HAKIM BIN MOHAMAD GHAZALI\nStudent No: 2024275476\nGroup: RCDCS2405B\nProgramme Code: CDCS240\nCourse: ICT602 Mobile Technology</string>
+    <string name="about_website">Application website (tap to open)</string>
+    <string name="about_copyright">© 2026 Muhammad Haiqal Hakim bin Mohamad Ghazali. All rights reserved.</string>
+</resources>
